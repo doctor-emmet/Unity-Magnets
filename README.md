@@ -4,9 +4,9 @@ Mechanic to attract/repel player from a magnet. Mechanic uses a gun to function 
 
 To Run:
 
--Download the project
--Open in Unity
--Hit Run
+1) Download the project
+2) Open in Unity
+3) Hit Run
 
 Controls:
 
