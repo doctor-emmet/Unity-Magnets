@@ -2,7 +2,7 @@
 
 Mechanic to attract/repel player from a magnet. Mechanic uses a gun to function but could also use a key press.
 
-#H3 To Run:
+#H5 To Run:
 
 1) Download the project
 
@@ -10,7 +10,7 @@ Mechanic to attract/repel player from a magnet. Mechanic uses a gun to function 
 
 3) Hit Run
 
-#H3 ontrols:
+#H5 ontrols:
 
 Move - Directional buttons/WASD
 
